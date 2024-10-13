@@ -11,7 +11,7 @@ O objetivo deste portfólio é:
 * Apresentar vários tipode de modelos que desenvolvi.
 * Destacar meu processo de aprendizado contínuo e aprimoramento de habilidades técnicas.
 
-# **Habilidades**
+## **Habilidades**
 Neste portfólio, você encontrará projetos que refletem as seguintes habilidades:
 
 * Análise de Dados: Experiência em manipulação e análise de conjuntos de dados usando Python e bibliotecas diversas, mas as principais Pandas e NumPy.
