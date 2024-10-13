@@ -1,5 +1,5 @@
 
-# **Portfólio Profissional**
+# **Portfólio Profissional (em construção)**
 
 Bem-vindo ao meu portfólio profissional! Este repositório foi criado para apresentar os projetos e as habilidades que desenvolvi durante minha graduação em Análise e Desenvolvimento de Sistemas e da pós-graduação em Data Analytics na FIAP, bem como em experiências profissionais de mais de 10 anos em grandes empresas de variados segmentos. 
 Aqui, você encontrará uma variedade de análises e modelos que demonstram meu conhecimento em diferentes áreas da ciência de dados.
