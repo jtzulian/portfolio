@@ -25,7 +25,7 @@ Os projetos incluídos neste repositório abordam tópicos como:
 
 * Modelo Preditivo de Classificação de Músicas (Base do Spotify no Kaggle).
 * Análise exploratória de dados de produção de vinhos no Rio Grande do Sul | Análises de consumo e tendências de mercado em diferentes setores.
-* Prevendo valores da Ibovespa com machinne learning and time series.
+* Prevendo valores da Ibovespa com machine learning and time series.
 
 ## **Contato**
 Se você tiver alguma dúvida ou quiser discutir sobre os projetos apresentados, sinta-se à vontade para entrar em contato comigo pelo meu LinkedIn:
