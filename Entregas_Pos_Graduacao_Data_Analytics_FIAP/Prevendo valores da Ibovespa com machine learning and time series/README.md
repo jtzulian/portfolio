@@ -1,4 +1,4 @@
-# **Prevendo Fechamento da Ibovespa com Machinne Learning e Time Series **
+# **Prevendo Fechamento da Ibovespa com Machinne Learning e Time Series**
 
 Este trabalho propõe uma análise preditiva do fechamento do Ibovespa, principal índice da Bolsa de Valores brasileira, utilizando dados históricos coletados entre 1º de janeiro de 2018 e 8 de fevereiro de 2024. Combinando técnicas de análise exploratória de dados e modelos de aprendizado de máquina, buscamos antecipar o comportamento futuro do Ibovespa, gerando insights úteis para investidores e stakeholders do mercado financeiro.
 
