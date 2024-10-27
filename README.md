@@ -1,7 +1,7 @@
 
-# **Portfólio Profissional (em construção)**
+# **Portfólio Profissional e Acadêmico (em construção)**
 
-Este é o meu portfólio profissional! Um repositório criado para apresentar os projetos e as habilidades que desenvolvi durante minha graduação em Análise e Desenvolvimento de Sistemas e da pós-graduação em Data Analytics na FIAP, bem como em experiências profissionais de mais de 10 anos em grandes empresas de variados segmentos. 
+Este é o meu portfólio profissional e Acadêmico. Um repositório criado para apresentar os projetos e as habilidades que desenvolvi durante minha graduação em Análise e Desenvolvimento de Sistemas e da pós-graduação em Data Analytics na FIAP, bem como em experiências profissionais de mais de 10 anos em grandes empresas de variados segmentos. 
 Aqui, você encontrará uma variedade de análises e modelos que demonstram meu conhecimento em diferentes áreas da ciência de dados.
 
 ## **Objetivo do Portfólio**
@@ -23,8 +23,9 @@ Neste portfólio, você encontrará projetos que refletem as seguintes habilidad
 ## **Projetos**
 Os projetos incluídos neste repositório abordam tópicos como:
 
-* Análise exploratória de dados de produção de vinhos no Rio Grande do Sul.
-* Análises de consumo e tendências de mercado em diferentes setores.
+* Modelo Preditivo de Classificação de Músicas (Base do Spotify no Kaggle).
+* Análise exploratória de dados de produção de vinhos no Rio Grande do Sul | Análises de consumo e tendências de mercado em diferentes setores.
+* Prevendo valores da Ibovespa com machinne learning and time series.
 
 ## **Contato**
 Se você tiver alguma dúvida ou quiser discutir sobre os projetos apresentados, sinta-se à vontade para entrar em contato comigo pelo meu LinkedIn:
